@@ -1,4 +1,22 @@
 .head{
-    display: inline;
+   display: flex;
+   background-color: blue;
+   color: aliceblue;
+   font-size: 10px;
 
+
+}
+.head2{
+    display: flex;
+    text-align: center;
+    padding: 30PX;
+    margin-left: 40%;
+    gap: 10PX;
+color: aliceblue;
+font-size: 20px;
+}
+.img12{
+    padding: 400px;
+    margin-top: -400px;
+    margin-right: 40px;
 }
