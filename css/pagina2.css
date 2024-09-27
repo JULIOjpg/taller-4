@@ -1,0 +1,6 @@
+.divdos > div{
+    border: 1px solid black;
+    color: yellow;
+    width: 20%;padding: 10px;
+    background-color: white;
+}
